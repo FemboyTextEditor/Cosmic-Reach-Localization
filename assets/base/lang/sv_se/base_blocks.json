@@ -75,5 +75,9 @@
     "base:clay": "Lera",
     "base:stone_shale": "Skiffersten",
     "base:piston": "Kolv",
-    "base:piston::suction": "Dragkolv"
+    "base:piston::suction": "Dragkolv",
+    "base:ore_ruby": "Rubinmalm",
+    "base:ruby_block": "Rubinblock",
+    "base:sapphire_block": "Safirblock",
+    "base:maize": "Majsplanta"
 }
