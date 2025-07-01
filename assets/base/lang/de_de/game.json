@@ -114,5 +114,6 @@
   "skinFileDesc": "PNG-Datei mit 128x64 Pixeln",
   "itemCatalogSearch": "Suchen...",
   "boomboxOctave": "Oktave",
-  "boomboxPlaySound": "Abspielen"
+  "boomboxPlaySound": "Abspielen",
+  "worldSelectionSearch": "Welten suchen..."  
 }

@@ -23,5 +23,6 @@
     "base:ruby": "Rubin",
     "base:sapphire": "Saphir",
     "base:corn": "Mais",
-    "base:corn_kernels": "Mais Kernel"
+    "base:corn_kernels": "Mais Kernel",
+    "base:debug_wrench": "Debug Schlüssel"
 }

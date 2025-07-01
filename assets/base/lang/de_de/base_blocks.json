@@ -79,5 +79,7 @@
     "base:ore_ruby": "Rubinerz",
     "base:ruby_block": "Rubinblock",
     "base:sapphire_block": "Saphirblock",
-    "base:maize": "Mais"
+    "base:maize": "Mais",
+    "base:ore_sapphire": "Saphirerz",
+    "base:lava": "Lava"
 }
